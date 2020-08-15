@@ -2,3 +2,8 @@ Merhabalar Ben Enes Bu Araç Üzerinden Yapılmış Bütün İşlemler Kullanan 
 
 İnstagram= @Kevinbank
 Youtube= @SiberRepo
+
+Aracın Kurulumu
+1-İndirdiğiniz Klasöre Gidin.
+2- python siteinfo.pyc
+3- Araç Başlatılır.
